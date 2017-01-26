@@ -1,4 +1,4 @@
-# Section 1: Software
+# Section 1: Software content
 
 ## Section 1.1: The MIT License (MIT)
 
