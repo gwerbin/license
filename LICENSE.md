@@ -2,7 +2,7 @@
 
 ## Section 1.1: The MIT License (MIT)
 
-Except where noted, software in this repository is covered under the terms of the MIT License, available at https://opensource.org/licenses/MIT.
+Except where noted, software in this repository is licensed under the terms of the MIT License, available at https://opensource.org/licenses/MIT.
 
 ## Section 1.2: Contributor License Agreement
 
