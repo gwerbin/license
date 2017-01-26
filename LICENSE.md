@@ -13,7 +13,3 @@ By intentionally becoming a Contributor to this Work, you agree to license your 
 # Section 2: Non-software content
 
 Except where noted or otherwise inapplicable, all non-software content in this repository is licensed under the terms of the CC BY-SA 4.0 International License, available at https://creativecommons.org/licenses/by-sa/4.0/.
-
-# Section 3: License for this license
-
-This document is itself licensed under the terms of the CC0 1.0 Universal License, available at https://creativecommons.org/publicdomain/zero/1.0/.
